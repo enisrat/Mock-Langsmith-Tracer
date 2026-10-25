@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+rich
+
+# Only needed to run test_e2e_langgraph.py (not required by the server itself)
+langsmith
+langchain
+langchain-openai
+langgraph
